@@ -11,4 +11,5 @@ def multiply(x,y):
 def divide(x,y):
 	pass
 
-##HELLO!!!
+def square(x):
+	pass
